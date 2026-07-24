@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-22n5hd.grandopeningribboncutting.com/sitemap.xml
